@@ -12,7 +12,7 @@ export default function Header() {
           <Link to="/sample">spamplePage</Link>
         </NavItem>
         <NavItem>
-          <Link to="/sub02">sub02</Link>
+          <Link to="/todo">Todo</Link>
         </NavItem>
         <NavItem>
           <Link to="/sub03">sub03</Link>

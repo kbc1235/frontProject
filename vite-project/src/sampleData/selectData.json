@@ -1,0 +1,22 @@
+[
+  {
+    "label": "red",
+    "value": "빨강"
+  },
+  {
+    "label": "green",
+    "value": "초록"
+  },
+  {
+    "label": "blue",
+    "value": "파란"
+  },
+  {
+    "label": "yellow",
+    "value": "노랑"
+  },
+  {
+    "label": "black",
+    "value": "검정"
+  }
+]

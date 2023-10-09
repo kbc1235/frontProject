@@ -1,5 +1,10 @@
 import React from "react";
+import TodoInput from "./input";
 
 export default function TodoWrap() {
-  return <div>todoWrap</div>;
+  return (
+    <div>
+      <TodoInput />
+    </div>
+  );
 }

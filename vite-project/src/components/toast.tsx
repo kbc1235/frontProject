@@ -6,7 +6,7 @@ interface ToastProps {
   setValue: React.Dispatch<React.SetStateAction<string>>;
 }
 
-export default function Toast({ value, setValue }: ToastProps) {
+export default function Toast({ value }: ToastProps) {
   const [toastText, setToastText] = useState("");
   useEffect(() => {
     if (toastText) {
